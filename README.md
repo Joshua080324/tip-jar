@@ -24,4 +24,12 @@ TipJar is a simple decentralized application (DApp) that allows users to send ET
 ---
 
 ## 📂 Project Structure
-
+tip-jar/
+├── contracts/ # Solidity contracts
+├── scripts/ # Deploy scripts
+├── test/ # Smart contract unit tests
+├── tipjar-frontend/ # Frontend app (React or Vanilla JS)
+├── hardhat.config.js # Hardhat config
+├── README.md # Project documentation
+├── LICENSE # Open-source license
+└── package.json # NPM config
